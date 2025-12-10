@@ -23,4 +23,4 @@ This final submission contains all security labs in fully formatted Jupyter Note
 
 ### Note: 
 ---
-Jupyter notebooks containing the lab content are provided, along with PDF versions of each lab as a backup in case of any issues. All labs were completed using Google Colab. 
+Jupyter notebooks containing the lab content are provided, along with PDF versions of each lab as a backup in case of any issues. All labs were completed using **Google Colab**. 
