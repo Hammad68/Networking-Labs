@@ -1,0 +1,6 @@
+hell[ofnfnfogfn[ffkbbfkjdbkdbkdbkjbfkjbfijrefoirh]]
+eval(
+base64.b64decode
+socket.connect
+exec(
+import os

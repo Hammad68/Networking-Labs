@@ -17,6 +17,10 @@ This final submission contains all security labs in fully formatted Jupyter Note
 
 - **GenAI Security**: prompt injection, model manipulation.
 
-### Submission Summary: 
+## Submission Summary: 
 - Scripts moved to notebooks and the written report reformatted per **Week 8** feedback.
 - This is the completed **Week 10** final submission.
+
+### Note: 
+---
+Jupyter notebooks containing the lab content are provided, along with PDF versions of each lab as a backup in case of any issues. All labs were completed using Google Colab. 
